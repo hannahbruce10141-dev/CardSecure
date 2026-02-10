@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CardSecure - Card Details</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+  <header>
+    <!-- LOGO -->
+    <a href="index.html" class="logo">
+      <i class="bx bx-credit-card-alt"></i>
+      CardSecure
+    </a>
+
+    <!-- MOBILE MENU ICON -->
+    <div id="menu-icon" class="menu-toggle" aria-label="Open menu" role="button" tabindex="0">
+      <span></span>
+      <span></span>
+    </div>
+
+    <!-- NAVBAR -->
+    <ul class="navbar" id="navbar">
+      <li><a href="index.html#home">Home</a></li>
+
+      <!-- CARD CATEGORY -->
+      <li class="dropdown mega">
+        <a href="#">Card Category <i class="bx bx-chevron-down"></i></a>
+        <ul class="dropdown-menu mega-menu">
+          <li class="mega-col">
+            <a href="#">Best Credit Cards</a>
+            <a href="#">Best Rewards Credit Cards</a>
+          </li>
+          <li class="mega-col">
+            <a href="#">Best Cash Back Credit Cards</a>
+            <a href="#">Best Student Credit Cards</a>
+          </li>
+          <li class="mega-col">
+            <a href="#">Best Travel Credit Cards</a>
+            <a href="#">Best Business Credit Cards</a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- CARD ISSUER -->
+      <li class="dropdown mega">
+        <a href="#">Card Issuer <i class="bx bx-chevron-down"></i></a>
+        <ul class="dropdown-menu mega-menu">
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/American-Express-Logo.png" height="20"> American Express</a>
+            <a href="#"><img src="img/logos/Bank-Of-America-Logo.png" height="20"> Bank of America</a>
+            <a href="#"><img src="img/logos/Capital-One-Logo.png" height="20"> Capital One</a>
+          </li>
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/Chase Logo.png" height="20"> Chase</a>
+            <a href="#"><img src="img/logos/Citi-Bank-Logo-PNG-HD-Image.png" height="20"> Citi</a>
+            <a href="#"><img src="img/logos/Discover Logo.png" height="20"> Discover</a>
+          </li>
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/Wells-Fargo-Logo .png" height="20"> Wells Fargo</a>
+            <a href="#"><img src="img/logos/Visa-Logo.png" height="22"> Visa</a>
+            <a href="#"><img src="img/logos/mastercard-logo .png" height="22"> Mastercard</a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- CREDIT RANGE -->
+      <li class="dropdown mega">
+        <a href="#">Credit Range <i class="bx bx-chevron-down"></i></a>
+        <ul class="dropdown-menu mega-menu">
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/credit/Excellent Credit.png" height="18"> Excellent Credit</a>
+            <a href="#"><img src="img/logos/credit/Good Credit.png" height="18"> Good Credit</a>
+          </li>
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/credit/Fair Credit.png" height="18"> Fair Credit</a>
+            <a href="#"><img src="img/logos/credit/Bad Credit.png" height="18"> Bad Credit</a>
+          </li>
+          <li class="mega-col">
+            <a href="#"><img src="img/logos/credit/Secured Credit Cards.png" height="18"> Secured Cards</a>
+            <a href="#"><img src="img/logos/credit/No Credit History.png" height="18"> No Credit History</a>
+          </li>
+        </ul>
+      </li>
+
+      <!-- OUR TEAM -->
+      <li class="dropdown">
+        <a href="#">Our Team <i class="bx bx-chevron-down"></i></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Our Experts</a></li>
+        </ul>
+      </li>
+
+      <!-- MOBILE AUTH -->
+      <li class="menu-actions">
+        <div class="auth">
+          <a href="#">Sign in</a>
+          <a href="#" class="btn">Register</a>
+        </div>
+      </li>
+    </ul>
+
+    <!-- MOBILE SUBMENU PANEL -->
+    <div class="mobile-submenu" id="mobile-submenu" aria-hidden="true">
+      <button class="submenu-back" id="submenu-back" aria-label="Back">
+        <i class="bx bx-chevron-left"></i>
+      </button>
+      <div class="submenu-title" id="submenu-title">Menu</div>
+      <div class="submenu-list" id="submenu-list"></div>
+    </div>
+
+    <!-- RIGHT SIDE ACTIONS -->
+    <div class="header-actions">
+      <div class="cart">
+        <i class="bx bx-cart"></i>
+      </div>
+      <div class="dark-toggle">
+        <i class="bx bx-moon"></i>
+      </div>
+      <div class="auth">
+        <a href="signin.html" id="auth-signin">Sign in</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="reviews-page card-details" id="card-details">
+    <div class="breadcrumb">Card Details</div>
+    <div class="hero">
+      <div class="hero-icon">
+        <i class="bx bx-credit-card"></i>
+      </div>
+      <div class="hero-copy">
+        <h1 id="detail-title">Card name</h1>
+        <p id="detail-desc">Review and confirm the card details before proceeding to payment.</p>
+      </div>
+    </div>
+
+    <div class="details-panel">
+      <img id="detail-image" src="" alt="Card image">
+      <div class="details-meta">
+        <div class="details-row"><span>CARD TYPE</span><strong>Platinum Mastercard</strong></div>
+        <div class="details-row"><span>HOLDER NAME</span><strong>Michael Johnson</strong></div>
+        <div class="details-row"><span>NUMBERS</span><strong>7479 44** 727** $4**5996</strong></div>
+        <div class="details-row"><span>CVV</span><strong>151</strong></div>
+        <div class="details-row"><span>CARD LIMIT</span><strong>$2500</strong></div>
+        <div class="details-row"><span>ADDRESS</span><strong>7474 Spruce Way</strong></div>
+        <div class="details-row"><span>COUNTRY</span><strong>France</strong></div>
+        <div class="details-row"><span>PRICE</span><strong>$50</strong></div>
+      </div>
+    </div>
+
+    <div class="details-actions">
+      <a href="checkout.html" class="buy-btn" id="proceed-btn">Proceed to pay</a>
+    </div>
+  </section>
+
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CardSecure - Create Account</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+
+<header class="simple-header">
+  <a href="index.html" class="logo">
+    <i class="bx bx-credit-card-alt"></i>
+    CardSecure
+  </a>
+</header>
+
+<section class="signin-page">
+  <div class="signin-card">
+    <h1>Create an account</h1>
+    <div class="account-email">
+      <span id="account-email">you@example.com</span>
+      <a href="signin.html" class="account-change">Change</a>
+    </div>
+
+    <form class="signin-form" action="account-created.html">
+      
+      <div class="name-row">
+        <div>
+          <label>First name</label>
+          <input type="text" name="first_name" required>
+        </div>
+
+        <div>
+          <label>Last name</label>
+          <input type="text" name="last_name" required>
+        </div>
+      </div>
+
+      <label>Password *</label>
+      <div class="password-row">
+        <input type="password" name="password" id="password" required minlength="6">
+        <button type="button" class="toggle-password">
+          <i class="bx bx-show"></i>
+        </button>
+      </div>
+
+      <button type="submit" class="signin-continue">Create Account</button>
+    </form>
+
+    <div class="signin-divider"><span>or</span></div>
+
+    <a class="signin-social google" href="/auth/google">
+      <i class="bx bxl-google"></i> Continue with Google
+    </a>
+  </div>
+</section>
+
+<script>
+  const toggleBtn = document.querySelector(".toggle-password");
+  const passwordInput = document.getElementById("password");
+
+  toggleBtn.addEventListener("click", () => {
+    if (passwordInput.type === "password") {
+      passwordInput.type = "text";
+      toggleBtn.innerHTML = '<i class="bx bx-hide"></i>';
+    } else {
+      passwordInput.type = "password";
+      toggleBtn.innerHTML = '<i class="bx bx-show"></i>';
+    }
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,976 @@
+{
+  "cards": [
+    {
+      "id": "cb-1",
+      "category": "cash-back",
+      "name": "Wells Fargo Active Cash\u00ae Card",
+      "price": "$0 annual fee",
+      "views": "1.2k",
+      "rating": 4.6,
+      "image": "img/logos/Best Cash Back Credit Cards/Wells Fargo Active Cash Card.png"
+    },
+    {
+      "id": "cb-2",
+      "category": "cash-back",
+      "name": "Chase Freedom Unlimited\u00ae",
+      "price": "$0 intro, $95 after",
+      "views": "980",
+      "rating": 4.4,
+      "image": "img/logos/Best Cash Back Credit Cards/Chase Freedom Unlimited.png"
+    },
+    {
+      "id": "cb-3",
+      "category": "cash-back",
+      "name": "Capital One Quicksilver\u00ae",
+      "price": "$0 annual fee",
+      "views": "1.8k",
+      "rating": 4.8,
+      "image": "img/logos/Best Cash Back Credit Cards/capital one Quicksilver.jpg"
+    },
+    {
+      "id": "cb-4",
+      "category": "cash-back",
+      "name": "Citi Custom Cash\u00ae Card",
+      "price": "$0 annual fee",
+      "views": "740",
+      "rating": 4.3,
+      "image": "img/logos/Best Cash Back Credit Cards/Citi Custom Cash Card.png"
+    },
+    {
+      "id": "cb-5",
+      "category": "cash-back",
+      "name": "Discover it\u00ae Secured Card",
+      "price": "$0 annual fee",
+      "views": "1.1k",
+      "rating": 4.5,
+      "image": "img/logos/Best Cash Back Credit Cards/DISCOVER it Secured Card.jpg"
+    },
+    {
+      "id": "cb-6",
+      "category": "cash-back",
+      "name": "American Express Cash Preferred\u00ae",
+      "price": "$0 intro, $95 after",
+      "views": "620",
+      "rating": 4.2,
+      "image": "img/logos/Best Cash Back Credit Cards/American Expresscash prefered.jpg"
+    },
+    {
+      "id": "cb-7",
+      "category": "cash-back",
+      "name": "Bank of America Cash Rewards\u00ae",
+      "price": "$0 annual fee",
+      "views": "540",
+      "rating": 4.1,
+      "image": "img/logos/Best Cash Back Credit Cards/Bank Of America Cash Reward.jpg"
+    },
+    {
+      "id": "cb-8",
+      "category": "cash-back",
+      "name": "Citi Strata Premier\u00ae",
+      "price": "$0 annual fee",
+      "views": "460",
+      "rating": 4.0,
+      "image": "img/logos/Best Cash Back Credit Cards/Citi_Strata_Premier.png"
+    },
+    {
+      "id": "bt-1",
+      "category": "balance-transfer",
+      "name": "Citi Simplicity\u00ae",
+      "price": "0% intro APR",
+      "views": "820",
+      "rating": 4.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-2",
+      "category": "balance-transfer",
+      "name": "BankAmericard\u00ae",
+      "price": "0% intro APR",
+      "views": "710",
+      "rating": 4.3,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-3",
+      "category": "balance-transfer",
+      "name": "Wells Fargo Reflect\u00ae",
+      "price": "0% intro APR",
+      "views": "640",
+      "rating": 4.2,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8eef7'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7a90' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-4",
+      "category": "balance-transfer",
+      "name": "Chase Slate Edge\u00ae",
+      "price": "0% intro APR",
+      "views": "530",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-5",
+      "category": "balance-transfer",
+      "name": "Citi Diamond Preferred\u00ae",
+      "price": "0% intro APR",
+      "views": "480",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-6",
+      "category": "balance-transfer",
+      "name": "U.S. Bank Visa\u00ae Platinum",
+      "price": "0% intro APR",
+      "views": "420",
+      "rating": 3.9,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-7",
+      "category": "balance-transfer",
+      "name": "Discover it\u00ae Balance Transfer",
+      "price": "0% intro APR",
+      "views": "380",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bt-8",
+      "category": "balance-transfer",
+      "name": "Citi\u00ae Double Cash",
+      "price": "0% intro APR",
+      "views": "360",
+      "rating": 3.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-1",
+      "category": "zero-apr",
+      "name": "Citi Simplicity\u00ae",
+      "price": "0% intro APR",
+      "views": "990",
+      "rating": 4.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-2",
+      "category": "zero-apr",
+      "name": "Wells Fargo Reflect\u00ae",
+      "price": "0% intro APR",
+      "views": "860",
+      "rating": 4.3,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8eef7'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7a90' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-3",
+      "category": "zero-apr",
+      "name": "Chase Slate Edge\u00ae",
+      "price": "0% intro APR",
+      "views": "640",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-4",
+      "category": "zero-apr",
+      "name": "BankAmericard\u00ae",
+      "price": "0% intro APR",
+      "views": "580",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-5",
+      "category": "zero-apr",
+      "name": "U.S. Bank Visa\u00ae Platinum",
+      "price": "0% intro APR",
+      "views": "430",
+      "rating": 3.9,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-6",
+      "category": "zero-apr",
+      "name": "Discover it\u00ae Balance Transfer",
+      "price": "0% intro APR",
+      "views": "380",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-7",
+      "category": "zero-apr",
+      "name": "Citi Diamond Preferred\u00ae",
+      "price": "0% intro APR",
+      "views": "360",
+      "rating": 3.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "apr-8",
+      "category": "zero-apr",
+      "name": "Citi\u00ae Double Cash",
+      "price": "0% intro APR",
+      "views": "330",
+      "rating": 3.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-1",
+      "category": "rewards",
+      "name": "Chase Sapphire Preferred\u00ae",
+      "price": "$95 annual fee",
+      "views": "1.4k",
+      "rating": 4.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-2",
+      "category": "rewards",
+      "name": "Capital One Venture\u00ae",
+      "price": "$95 annual fee",
+      "views": "1.1k",
+      "rating": 4.4,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-3",
+      "category": "rewards",
+      "name": "Amex Gold\u00ae",
+      "price": "$250 annual fee",
+      "views": "980",
+      "rating": 4.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-4",
+      "category": "rewards",
+      "name": "Citi Premier\u00ae",
+      "price": "$95 annual fee",
+      "views": "760",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8eef7'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7a90' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-5",
+      "category": "rewards",
+      "name": "Bilt Mastercard\u00ae",
+      "price": "$0 annual fee",
+      "views": "520",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-6",
+      "category": "rewards",
+      "name": "Chase Freedom Unlimited\u00ae",
+      "price": "$0 annual fee",
+      "views": "1.8k",
+      "rating": 4.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-7",
+      "category": "rewards",
+      "name": "Marriott Bonvoy\u00ae",
+      "price": "$95 annual fee",
+      "views": "420",
+      "rating": 3.9,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "rw-8",
+      "category": "rewards",
+      "name": "Hilton Honors\u00ae",
+      "price": "$0 annual fee",
+      "views": "360",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-1",
+      "category": "travel",
+      "name": "Chase Sapphire Preferred\u00ae",
+      "price": "$95 annual fee",
+      "views": "1.3k",
+      "rating": 4.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-2",
+      "category": "travel",
+      "name": "Capital One Venture\u00ae",
+      "price": "$95 annual fee",
+      "views": "980",
+      "rating": 4.4,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-3",
+      "category": "travel",
+      "name": "Amex Platinum\u00ae",
+      "price": "$695 annual fee",
+      "views": "860",
+      "rating": 4.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-4",
+      "category": "travel",
+      "name": "Citi Premier\u00ae",
+      "price": "$95 annual fee",
+      "views": "720",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8eef7'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7a90' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-5",
+      "category": "travel",
+      "name": "Bilt Mastercard\u00ae",
+      "price": "$0 annual fee",
+      "views": "520",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-6",
+      "category": "travel",
+      "name": "United Explorer\u00ae",
+      "price": "$95 annual fee",
+      "views": "410",
+      "rating": 3.9,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-7",
+      "category": "travel",
+      "name": "Delta SkyMiles\u00ae",
+      "price": "$0 intro",
+      "views": "360",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "tr-8",
+      "category": "travel",
+      "name": "Marriott Bonvoy\u00ae",
+      "price": "$95 annual fee",
+      "views": "300",
+      "rating": 3.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-1",
+      "category": "student",
+      "name": "Discover it\u00ae Student Cash Back",
+      "price": "$0 annual fee",
+      "views": "540",
+      "rating": 4.4,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-2",
+      "category": "student",
+      "name": "Journey\u00ae Student Rewards",
+      "price": "$0 annual fee",
+      "views": "430",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-3",
+      "category": "student",
+      "name": "Bank of America\u00ae Travel Rewards (Student)",
+      "price": "$0 annual fee",
+      "views": "380",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-4",
+      "category": "student",
+      "name": "Capital One Quicksilver Student",
+      "price": "$0 annual fee",
+      "views": "310",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-5",
+      "category": "student",
+      "name": "Discover it\u00ae Student Chrome",
+      "price": "$0 annual fee",
+      "views": "290",
+      "rating": 3.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-6",
+      "category": "student",
+      "name": "Deserve\u00ae EDU",
+      "price": "$0 annual fee",
+      "views": "260",
+      "rating": 3.6,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-7",
+      "category": "student",
+      "name": "Chase Freedom Student",
+      "price": "$0 annual fee",
+      "views": "220",
+      "rating": 3.5,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "st-8",
+      "category": "student",
+      "name": "Petal\u00ae 1 Visa",
+      "price": "$0 annual fee",
+      "views": "200",
+      "rating": 3.4,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-1",
+      "category": "business",
+      "name": "Business Card 1",
+      "price": "$95 annual fee",
+      "views": "1.2k",
+      "rating": 4.5,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8eef7'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7a90' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-2",
+      "category": "business",
+      "name": "Business Card 2",
+      "price": "$0 annual fee",
+      "views": "980",
+      "rating": 4.3,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fde9e5'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238b5a2b' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-3",
+      "category": "business",
+      "name": "Business Card 3",
+      "price": "$95 annual fee",
+      "views": "760",
+      "rating": 4.2,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e7f6df'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a6f3a' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-4",
+      "category": "business",
+      "name": "Business Card 4",
+      "price": "$0 annual fee",
+      "views": "620",
+      "rating": 4.1,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e1edff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-5",
+      "category": "business",
+      "name": "Business Card 5",
+      "price": "$0 annual fee",
+      "views": "540",
+      "rating": 4.0,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23fff1d6'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%238a6b00' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-6",
+      "category": "business",
+      "name": "Business Card 6",
+      "price": "$0 annual fee",
+      "views": "470",
+      "rating": 3.9,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23eef2f4'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7780' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-7",
+      "category": "business",
+      "name": "Business Card 7",
+      "price": "$0 annual fee",
+      "views": "390",
+      "rating": 3.8,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23f0f5ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%230d1b4c' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bu-8",
+      "category": "business",
+      "name": "Business Card 8",
+      "price": "$0 annual fee",
+      "views": "320",
+      "rating": 3.7,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='360' height='220'><rect width='100%25' height='100%25' rx='16' ry='16' fill='%23e8f1ff'/><text x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%232a4b8d' font-family='Arial' font-size='16'>Card Image</text></svg>"
+    },
+    {
+      "id": "bc-1",
+      "category": "best-credit",
+      "name": "Paywave Visa Gold",
+      "price": "A strong all-around card with premium perks.",
+      "views": "2.8k",
+      "rating": 4.8,
+      "image": "img/logos/Best Credit Cards/payWave Visa Gold.jpg"
+    },
+    {
+      "id": "bc-2",
+      "category": "best-credit",
+      "name": "Visa Platinum",
+      "price": "Great for everyday spending and bonus categories.",
+      "views": "2.1k",
+      "rating": 4.6,
+      "image": "img/logos/Best Credit Cards/Visa Platinum.jpg"
+    },
+    {
+      "id": "bc-3",
+      "category": "best-credit",
+      "name": "Green Dot Visa Gold",
+      "price": "Ideal for frequent travelers and flexible points.",
+      "views": "1.9k",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/Green Dot Visa Gold.png"
+    },
+    {
+      "id": "bc-4",
+      "category": "best-credit",
+      "name": "American Express",
+      "price": "$0 annual fee",
+      "views": "800",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRES.jpg"
+    },
+    {
+      "id": "bc-5",
+      "category": "best-credit",
+      "name": "American Expresss Card Preview",
+      "price": "$95 annual fee",
+      "views": "807",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESS CARD preview.jpg"
+    },
+    {
+      "id": "bc-6",
+      "category": "best-credit",
+      "name": "American Expresss Card",
+      "price": "$0 annual fee",
+      "views": "814",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESS CARD.jpg"
+    },
+    {
+      "id": "bc-7",
+      "category": "best-credit",
+      "name": "American Expresss Cards",
+      "price": "$95 annual fee",
+      "views": "821",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESS CARDs.jpg"
+    },
+    {
+      "id": "bc-8",
+      "category": "best-credit",
+      "name": "American Expresss",
+      "price": "$0 annual fee",
+      "views": "828",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESS.jpg"
+    },
+    {
+      "id": "bc-9",
+      "category": "best-credit",
+      "name": "American Expressscard Preview",
+      "price": "$95 annual fee",
+      "views": "835",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESSCARD preview.jpg"
+    },
+    {
+      "id": "bc-10",
+      "category": "best-credit",
+      "name": "American Expressscard",
+      "price": "$0 annual fee",
+      "views": "842",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESSCARD.jpg"
+    },
+    {
+      "id": "bc-11",
+      "category": "best-credit",
+      "name": "American Expressscards",
+      "price": "$95 annual fee",
+      "views": "849",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/AMERICAN EXPRESSCARDs.jpg"
+    },
+    {
+      "id": "bc-12",
+      "category": "best-credit",
+      "name": "Americanexpres Card",
+      "price": "$0 annual fee",
+      "views": "856",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/AMERICANEXPRES CARD.jpg"
+    },
+    {
+      "id": "bc-13",
+      "category": "best-credit",
+      "name": "Americanexpress Card Preview",
+      "price": "$95 annual fee",
+      "views": "863",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/AMERICANEXPRESS CARD preview.jpg"
+    },
+    {
+      "id": "bc-14",
+      "category": "best-credit",
+      "name": "Discover Card",
+      "price": "$0 annual fee",
+      "views": "870",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/DISCOVER  CARD.jpg"
+    },
+    {
+      "id": "bc-15",
+      "category": "best-credit",
+      "name": "Discover",
+      "price": "$95 annual fee",
+      "views": "877",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/DISCOVER CARDS.jpg"
+    },
+    {
+      "id": "bc-16",
+      "category": "best-credit",
+      "name": "Discover Card",
+      "price": "$0 annual fee",
+      "views": "884",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/DISCOVER PREVIEW CARD.jpg"
+    },
+    {
+      "id": "bc-17",
+      "category": "best-credit",
+      "name": "Discover 2",
+      "price": "$95 annual fee",
+      "views": "891",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/DISCOVER PREVIEW CARDS 2.jpg"
+    },
+    {
+      "id": "bc-18",
+      "category": "best-credit",
+      "name": "Discover",
+      "price": "$0 annual fee",
+      "views": "898",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/DISCOVER PREVIEW.jpg"
+    },
+    {
+      "id": "bc-19",
+      "category": "best-credit",
+      "name": "Discover Card",
+      "price": "$95 annual fee",
+      "views": "905",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/DISCOVER PREVIEWCARD.jpg"
+    },
+    {
+      "id": "bc-20",
+      "category": "best-credit",
+      "name": "Discover",
+      "price": "$0 annual fee",
+      "views": "912",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/DISCOVER PREVIEWCARDS.jpg"
+    },
+    {
+      "id": "bc-21",
+      "category": "best-credit",
+      "name": "Discover",
+      "price": "$95 annual fee",
+      "views": "919",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/DISCOVER.jpg"
+    },
+    {
+      "id": "bc-22",
+      "category": "best-credit",
+      "name": "Discover Card",
+      "price": "$0 annual fee",
+      "views": "926",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/DISCOVERPREVIEW CARD.jpg"
+    },
+    {
+      "id": "bc-23",
+      "category": "best-credit",
+      "name": "Discover",
+      "price": "$95 annual fee",
+      "views": "933",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/DISCOVERPREVIEW CARDS.jpg"
+    },
+    {
+      "id": "bc-24",
+      "category": "best-credit",
+      "name": "Platinum Card",
+      "price": "$0 annual fee",
+      "views": "940",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/PLATINUM CARD.jpg"
+    },
+    {
+      "id": "bc-25",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$95 annual fee",
+      "views": "947",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD  CARDS.jpg"
+    },
+    {
+      "id": "bc-26",
+      "category": "best-credit",
+      "name": "Platinum Mastercard Card",
+      "price": "$0 annual fee",
+      "views": "954",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD CARD.jpg"
+    },
+    {
+      "id": "bc-27",
+      "category": "best-credit",
+      "name": "Platinum Mastercard Card",
+      "price": "$95 annual fee",
+      "views": "961",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD PREVIEW CARD.jpg"
+    },
+    {
+      "id": "bc-28",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$0 annual fee",
+      "views": "968",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD PREVIEW CARDS.jpg"
+    },
+    {
+      "id": "bc-29",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$95 annual fee",
+      "views": "975",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD PREVIEW.jpg"
+    },
+    {
+      "id": "bc-30",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$0 annual fee",
+      "views": "982",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD PREVIEWCARDS.jpg"
+    },
+    {
+      "id": "bc-31",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$95 annual fee",
+      "views": "989",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARD.jpg"
+    },
+    {
+      "id": "bc-32",
+      "category": "best-credit",
+      "name": "Platinum Mastercard",
+      "price": "$0 annual fee",
+      "views": "996",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/PLATINUM MASTERCARDPREVIEW.jpg"
+    },
+    {
+      "id": "bc-33",
+      "category": "best-credit",
+      "name": "Platinum",
+      "price": "$95 annual fee",
+      "views": "1003",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/PLATINUM.jpg"
+    },
+    {
+      "id": "bc-34",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$0 annual fee",
+      "views": "1010",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/VISA GOLD CARDS.jpg"
+    },
+    {
+      "id": "bc-35",
+      "category": "best-credit",
+      "name": "Visa Gold Credit",
+      "price": "$95 annual fee",
+      "views": "1017",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/VISA GOLD CREDIT CARDS.jpg"
+    },
+    {
+      "id": "bc-36",
+      "category": "best-credit",
+      "name": "Visa Gold Credit Card",
+      "price": "$0 annual fee",
+      "views": "1024",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/VISA GOLD Credit card.jpg"
+    },
+    {
+      "id": "bc-37",
+      "category": "best-credit",
+      "name": "Visa Gold Card",
+      "price": "$95 annual fee",
+      "views": "1031",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/VISA GOLD PREVIEW CARD.jpg"
+    },
+    {
+      "id": "bc-38",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$0 annual fee",
+      "views": "1038",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/VISA GOLD PREVIEW.jpg"
+    },
+    {
+      "id": "bc-39",
+      "category": "best-credit",
+      "name": "Visa Gold Card",
+      "price": "$95 annual fee",
+      "views": "1045",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/VISA GOLD PREVIEWCARD.jpg"
+    },
+    {
+      "id": "bc-40",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$0 annual fee",
+      "views": "1052",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/VISA GOLD PREVIEWCARDS.jpg"
+    },
+    {
+      "id": "bc-41",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$95 annual fee",
+      "views": "1059",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/VISA GOLD.jpg"
+    },
+    {
+      "id": "bc-42",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$0 annual fee",
+      "views": "1066",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/VISA GOLDCARDS.jpg"
+    },
+    {
+      "id": "bc-43",
+      "category": "best-credit",
+      "name": "Visa Gold",
+      "price": "$95 annual fee",
+      "views": "1073",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/VISA GOLDPREVIEW.jpg"
+    },
+    {
+      "id": "bc-44",
+      "category": "best-credit",
+      "name": "Visa Infinite Card",
+      "price": "$0 annual fee",
+      "views": "1080",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE  CARD.jpg"
+    },
+    {
+      "id": "bc-45",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$95 annual fee",
+      "views": "1087",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE CARDS.jpg"
+    },
+    {
+      "id": "bc-46",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$0 annual fee",
+      "views": "1094",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE PREVIEW.jpg"
+    },
+    {
+      "id": "bc-47",
+      "category": "best-credit",
+      "name": "Visa Infinite Card",
+      "price": "$95 annual fee",
+      "views": "1101",
+      "rating": 4.1,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE PREVIEWCARD.jpg"
+    },
+    {
+      "id": "bc-48",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$0 annual fee",
+      "views": "1108",
+      "rating": 4.2,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE PREVIEWCARDS.jpg"
+    },
+    {
+      "id": "bc-49",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$95 annual fee",
+      "views": "1115",
+      "rating": 4.3,
+      "image": "img/logos/Best Credit Cards/VISA INFINITE.jpg"
+    },
+    {
+      "id": "bc-50",
+      "category": "best-credit",
+      "name": "Visa Infinite Card",
+      "price": "$0 annual fee",
+      "views": "1122",
+      "rating": 4.4,
+      "image": "img/logos/Best Credit Cards/VISA INFINITEPREVIEW CARD.jpg"
+    },
+    {
+      "id": "bc-51",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$95 annual fee",
+      "views": "1129",
+      "rating": 4.5,
+      "image": "img/logos/Best Credit Cards/VISA INFINITEPREVIEW CARDS.jpg"
+    },
+    {
+      "id": "bc-52",
+      "category": "best-credit",
+      "name": "Visa Infinite",
+      "price": "$0 annual fee",
+      "views": "1136",
+      "rating": 4.0,
+      "image": "img/logos/Best Credit Cards/VISA INFINITEPREVIEW.jpg"
+    }
+  ]
+}

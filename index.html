@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>CardSecure - Find the Right Card</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+
+<header>
+  <!-- LOGO -->
+  <a href="#" class="logo">
+    <i class="bx bx-credit-card-alt"></i>
+    CardSecure
+  </a>
+
+  <!-- MOBILE MENU ICON -->
+  <div id="menu-icon" class="menu-toggle" aria-label="Open menu" role="button" tabindex="0">
+    <span></span>
+    <span></span>
+  </div>
+
+  <!-- NAVBAR -->
+  <ul class="navbar" id="navbar">
+
+    <li><a href="#home">Home</a></li>
+
+    <!-- CARD CATEGORY -->
+    <li class="dropdown mega">
+      <a href="#">Card Category <i class="bx bx-chevron-down"></i></a>
+      <ul class="dropdown-menu mega-menu">
+        <li class="mega-col">
+          <a href="#">Best Credit Cards</a>
+          <a href="#">Best Rewards Credit Cards</a>
+        </li>
+        <li class="mega-col">
+          <a href="#">Best Cash Back Credit Cards</a>
+          <a href="#">Best Student Credit Cards</a>
+        </li>
+        <li class="mega-col">
+          <a href="#">Best Travel Credit Cards</a>
+          <a href="#">Best Business Credit Cards</a>
+        </li>
+      </ul>
+    </li>
+
+    <!-- CARD ISSUER -->
+    <li class="dropdown mega">
+      <a href="#">Card Issuer <i class="bx bx-chevron-down"></i></a>
+      <ul class="dropdown-menu mega-menu">
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/American-Express-Logo.png" height="20"> American Express
+          </a>
+          <a href="#">
+            <img src="img/logos/Bank-Of-America-Logo.png" height="20"> Bank of America
+          </a>
+          <a href="#">
+            <img src="img/logos/Capital-One-Logo.png" height="20"> Capital One
+          </a>
+        </li>
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/Chase Logo.png" height="20"> Chase
+          </a>
+          <a href="#">
+            <img src="img/logos/Citi-Bank-Logo-PNG-HD-Image.png" height="20"> Citi
+          </a>
+          <a href="#">
+            <img src="img/logos/Discover Logo.png" height="20"> Discover
+          </a>
+        </li>
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/Wells-Fargo-Logo .png" height="20"> Wells Fargo
+          </a>
+          <a href="#">
+            <img src="img/logos/Visa-Logo.png" height="22"> Visa
+          </a>
+          <a href="#">
+            <img src="img/logos/mastercard-logo .png" height="22"> Mastercard
+          </a>
+        </li>
+
+      </ul>
+    </li>
+
+    <!-- CREDIT RANGE -->
+    <li class="dropdown mega">
+      <a href="#">Credit Range <i class="bx bx-chevron-down"></i></a>
+      <ul class="dropdown-menu mega-menu">
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/credit/Excellent Credit.png" height="18"> Excellent Credit
+          </a>
+          <a href="#">
+            <img src="img/logos/credit/Good Credit.png" height="18"> Good Credit
+          </a>
+        </li>
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/credit/Fair Credit.png" height="18"> Fair Credit
+          </a>
+          <a href="#">
+            <img src="img/logos/credit/Bad Credit.png" height="18"> Bad Credit
+          </a>
+        </li>
+
+        <li class="mega-col">
+          <a href="#">
+            <img src="img/logos/credit/Secured Credit Cards.png" height="18"> Secured Cards
+          </a>
+          <a href="#">
+            <img src="img/logos/credit/No Credit History.png" height="18"> No Credit History
+          </a>
+        </li>
+
+      </ul>
+    </li>
+
+    <!-- OUR TEAM -->
+    <li class="dropdown">
+      <a href="#">Our Team <i class="bx bx-chevron-down"></i></a>
+      <ul class="dropdown-menu">
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Our Experts</a></li>
+      </ul>
+    </li>
+
+    <!-- MOBILE AUTH -->
+    <li class="menu-actions">
+      <div class="auth">
+        <a href="signin.html">Sign in</a>
+      </div>
+    </li>
+
+  </ul>
+
+  <!-- MOBILE SUBMENU PANEL -->
+  <div class="mobile-submenu" id="mobile-submenu" aria-hidden="true">
+    <button class="submenu-back" id="submenu-back" aria-label="Back">
+      <i class="bx bx-chevron-left"></i>
+    </button>
+    <div class="submenu-title" id="submenu-title">Menu</div>
+    <div class="submenu-list" id="submenu-list"></div>
+  </div>
+
+  <!-- RIGHT SIDE ACTIONS -->
+  <div class="header-actions">
+    <div class="cart">
+      <i class="bx bx-cart"></i>
+    </div>
+    <div class="dark-toggle">
+      <i class="bx bx-moon"></i>
+    </div>
+    <div class="auth">
+      <a href="signin.html">Sign in</a>
+    </div>
+  </div>
+</header>
+
+<!-- Trust Section -->
+<section class="trust" id="home">
+  <div class="as-seen">
+    <p>As seen on:</p>
+    <div class="as-seen-logos">
+      <img src="img/logos/home media logo/wall_street_journal.jpg" alt="The Wall Street Journal">
+      <img src="img/logos/home media logo/bloomberg.jpg" alt="Bloomberg">
+      <img src="img/logos/home media logo/new_york_times.jpg" alt="The New York Times">
+      <img src="img/logos/home media logo/entrepreneur.jpg" alt="Entrepreneur">
+      <img src="img/logos/home media logo/fox_business.jpg" alt="Fox Business">
+      <img src="img/logos/home media logo/consumer_reports.jpg" alt="Consumer Reports">
+    </div>
+  </div>
+
+  <h2 class="trust-title">The tools you need!  The advice you want!  And A team you can trust.</h2>
+
+  <div class="feature-row">
+    <div class="feature-text">
+      <div class="feature-icon">
+        <i class="bx bx-group"></i>
+      </div>
+      <h3>A top-notch team of experts</h3>
+      <p>With more than 17 years in the industry, we know credit cards, and our experts are here to share their knowledge with you. Our content is fact-checked and reviewed by top experts in the field so you know you can count on us for helpful and accurate advice.</p>
+      <a href="#" class="feature-link">Learn more about us <i class="bx bx-right-arrow-alt"></i></a>
+    </div>
+    <div class="feature-img">
+      <img src="about-us-v2.png" alt="Team of experts">
+    </div>
+  </div>
+
+  <div class="feature-row reverse">
+    <div class="feature-img">
+      <img src="about-us-cardmatch-v2.png" alt="Card listings">
+    </div>
+    <div class="feature-text">
+      <div class="feature-icon alt">
+        <i class="bx bx-credit-card"></i>
+      </div>
+      <h3>Card listings curated for you</h3>
+      <p>Sifting through hundreds of cards in search of the perfect one? You don't have time for that. Leave it to us and we’ll find the best pre-qualified and special offers for you, all conveniently curated on a personalized page.</p>
+      <a href="#" class="feature-link">Check out CardMatch <i class="bx bx-right-arrow-alt"></i></a>
+    </div>
+  </div>
+
+  <div class="feature-row">
+    <div class="feature-text">
+      <div class="feature-icon green">
+        <i class="bx bx-calculator"></i>
+      </div>
+      <h3>Helpful calculations</h3>
+      <p>If math isn't your strong suit, we can help you find calculations with almost zero effort. Just type in a few details and we’ll calculate how long it'll take to pay off your card, or how much a balance transfer could help you save.</p>
+      <a href="#" class="feature-link">Discover savings now <i class="bx bx-right-arrow-alt"></i></a>
+    </div>
+    <div class="feature-img">
+      <img src="about-us-calc-v2.png" alt="Helpful calculations">
+    </div>
+  </div>
+</section>
+
+<!-- Reviews -->
+<section class="reviews" id="categories">
+  <h2 class="reviews-title">Read our top card reviews</h2>
+
+  <div class="reviews-tabs">
+    <button class="tab active" data-category="best-credit">Best Credit Card</button>
+    <button class="tab" data-category="rewards">Rewards</button>
+    <button class="tab" data-category="cash-back">Cash Back</button>
+    <button class="tab" data-category="student">Student</button>
+    <button class="tab" data-category="travel">Travel</button>
+    <button class="tab" data-category="business">Business</button>
+  </div>
+
+  <div class="reviews-grid">
+    <!-- Filled by JS -->
+  </div>
+
+  <div class="reviews-footer">
+    <a class="see-all" href="cards.html"><span class="see-all-text">See all card reviews</span></a>
+  </div>
+</section>
+
+<script src="main.js"></script>
+<script>
+  const menuIcon = document.getElementById('menu-icon');
+  const navbar = document.getElementById('navbar');
+  const dropdownLinks = document.querySelectorAll('.dropdown > a');
+  const mobileSubmenu = document.getElementById('mobile-submenu');
+  const submenuBack = document.getElementById('submenu-back');
+  const submenuTitle = document.getElementById('submenu-title');
+  const submenuList = document.getElementById('submenu-list');
+  const darkToggle = document.querySelector('.dark-toggle');
+
+  menuIcon.onclick = () => {
+    navbar.classList.toggle('active');
+    menuIcon.classList.toggle('active');
+    if (!navbar.classList.contains('active')) {
+      mobileSubmenu.classList.remove('active');
+      mobileSubmenu.setAttribute('aria-hidden', 'true');
+      navbar.classList.remove('submenu-hidden');
+    }
+  };
+
+  dropdownLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      if (window.innerWidth <= 991) {
+        e.preventDefault();
+        const parent = link.parentElement;
+        const menu = parent.querySelector('.dropdown-menu');
+        if (!menu) return;
+
+        submenuTitle.textContent = link.childNodes[0].textContent.trim() || 'Menu';
+        submenuList.innerHTML = '';
+        menu.querySelectorAll('a').forEach(a => {
+          const item = a.cloneNode(true);
+          item.classList.add('submenu-item');
+          submenuList.appendChild(item);
+        });
+
+        mobileSubmenu.classList.add('active');
+        mobileSubmenu.setAttribute('aria-hidden', 'false');
+        navbar.classList.add('submenu-hidden');
+      }
+    });
+  });
+
+  submenuBack.addEventListener('click', () => {
+    mobileSubmenu.classList.remove('active');
+    mobileSubmenu.setAttribute('aria-hidden', 'true');
+    navbar.classList.remove('submenu-hidden');
+  });
+
+  darkToggle.onclick = () => {
+    document.body.classList.toggle('dark');
+  };
+</script>
+
+</body>
+</html>

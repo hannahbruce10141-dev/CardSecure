@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CardSecure - Sign In</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+
+<header class="simple-header">
+  <a href="index.html" class="logo">
+    <i class="bx bx-credit-card-alt"></i>
+    CardSecure
+  </a>
+  <div class="header-actions">
+    <div class="cart">
+      <i class="bx bx-cart"></i>
+    </div>
+  </div>
+</header>
+
+<section class="signin-page">
+  <div class="signin-card">
+    <h1>Sign in or create account</h1>
+    <p>Earn rewards on every purchase! Sign in to your account or join our rewards program today.</p>
+
+    <form class="signin-form" id="signin-form" action="create-account.html" method="get">
+      <label>Email address *</label>
+      <input type="email" name="email" placeholder="you@example.com" required>
+      <button type="submit" class="signin-continue">Continue</button>
+    </form>
+
+    <div class="signin-meta">
+      <span>★ 10k+ Reviews</span>
+      <span>•</span>
+      <span>Instant Delivery</span>
+    </div>
+
+    <div class="signin-divider"><span>or</span></div>
+
+      <a class="signin-social google" href="/auth/google">
+        <i class="bx bxl-google"></i> Continue with Google
+      </a>
+  </div>
+</section>
+
+</body>
+</html>
