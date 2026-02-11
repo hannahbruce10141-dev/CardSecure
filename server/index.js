@@ -54,7 +54,15 @@ passport.use(
   )
 );
 
-app.get('/auth/google', passport.authenticate('google', { scope: ['profile', 'email'] }));
+const googleScope = ['profile', 'email'];
+app.get(
+  '/auth/google',
+  passport.authenticate('google', {
+    scope: googleScope,
+    includeGrantedScopes: true,
+    prompt: 'consent',
+  })
+);
 
 app.get(
   '/auth/google/callback',
